@@ -11,3 +11,9 @@ body{
     width: 100vw;
     background-color: black;
 }
+
+main{
+    height: 100vh;
+    position: relative;
+    background-color: rgb(99, 194, 4);
+}
