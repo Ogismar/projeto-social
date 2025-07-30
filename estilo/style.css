@@ -43,6 +43,8 @@ html{
                 box-shadow: 2px 2px 4px white;
                 &:hover{
                     border: 2px solid white;
+                    transform: translate(-10px, -10px);
+                    box-shadow: 5px 5px 10px white;
                     
                 }                   
             }
